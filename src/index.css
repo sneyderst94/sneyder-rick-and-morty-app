@@ -72,6 +72,7 @@ body {
 }
 .form-search > button:hover {
   background-color: #87047ca4;
+  cursor: pointer;
 }
 
 /* Location */
